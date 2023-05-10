@@ -1,7 +1,9 @@
 ### Olá! Sou a Jéssica Sobreira 👋
 
-- Trabalho com Marketing Digital
-- Estudando Front-End
+- Adoro games, viajar, batata frita e Coca-Cola :)
+- Estudando Full Stack na 15ª edição do Programa Starter Web Developer da Growdev
+- Estudando Front-end Web Developer na Alura
+- Sou jornalista formada em transição para a TI, trabalho com Comunicação desde 2011
 - Pronouns: ela/dela
 <div align="center">
   <a href="https://github.com/jessica-sobreira">
