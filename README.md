@@ -3,8 +3,8 @@
 - Adoro games, viajar, batata frita e Coca-Cola :)
 - Estudando Full Stack na 15ª edição do Programa Starter Web Developer da Growdev
 - Estudando Front-end Web Developer na Alura
-- Sou jornalista formada em transição para a TI, trabalho com Comunicação desde 2011
-- Pronouns: ela/dela
+- Trabalho com comunicação desde 2011
+
 <div align="center">
   <a href="https://github.com/jessica-sobreira">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jessica-sobreira&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
