@@ -1,6 +1,6 @@
 ### Olá! Sou a Jéssica Sobreira 👋
 
-- Adoro games, viajar, batata frita e Coca-Cola :)
+- Adoro viajar, games, batata frita e Coca-Cola :)
 - Estudando Full Stack na 15ª edição do Programa Starter Web Developer da Growdev
 - Estudando Front-end na Alura
 - Trabalho com comunicação desde 2011
