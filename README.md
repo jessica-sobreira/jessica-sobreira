@@ -1,10 +1,10 @@
 ### Olá! Sou a Jéssica Sobreira 👋
 
-- Adoro viajar, games, filmes, batata frita e Coca-Cola :)
-- Estudando Full Stack na 15ª edição do Programa Starter Web Developer da Growdev
-- Estudando Front-end na Alura
-- Estudando no Bootcamp Potência Tech iFood da DIO
-- Trabalho com comunicação desde 2011
+- Adoro viajar, filmes, batata frita e Coca-Cola :)
+- Estudando Full Stack na 15ª edição do Programa Starter Web Developer da Growdev;
+- Estudando Front-end na Alura;
+- Estudando no Bootcamp Potência Tech iFood da DIO;
+- Trabalho com comunicação desde 2011;
 
 <div align="center">
   <a href="https://github.com/jessica-sobreira">
