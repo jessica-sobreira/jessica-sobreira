@@ -36,6 +36,4 @@
 <a href="https://discord.com/channels/@jessicasobreira" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
 </div>
-![snake gif](https://github.com/jessica-sobreira/jessica-sobreira/blob/output/github-contribution-grid-snake.gif)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=jessica-sobreira&repo=jessica-sobreira&theme=react)](https://github.com/jessica-sobreira/jessica-sobreira)
