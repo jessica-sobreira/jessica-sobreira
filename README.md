@@ -29,6 +29,9 @@
   <img align="center" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" height='40' width='40'/>
   <img align="center" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height='40' width='40'/>
   <img align="center" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height='40' width='40'/>
+  <img align="center" src="https://skillicons.dev/icons?i=vite" height="40" width='40' />
+  <img align="center" src="https://skillicons.dev/icons?i=styledcomponents" height="40" width='40' />
+  <img align="center" src="https://skillicons.dev/icons?i=postgres" height="40" width='40' />
 </div>
 
 ##
