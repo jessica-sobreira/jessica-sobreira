@@ -7,10 +7,14 @@
   </a>
 </div>
 
+<br>
+
 - 👩‍💻 Estudante de Full Stack na 15ª edição do Programa Starter Web Developer da Growdev.
 - 📚 Estudante de Front-end na Alura.
 - 🚀 Estudei do Bootcamp Potência Tech iFood da DIO.
 - 🎓 Trabalho com Comunicação desde 2011.
+
+##
 
 ### Tecnologias e Ferramentas que trabalho:
 
@@ -26,6 +30,8 @@
   <img align="center" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height='40' width='40'/>
   <img align="center" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height='40' width='40'/>
 </div>
+
+##
 
 ### Contato:
 
