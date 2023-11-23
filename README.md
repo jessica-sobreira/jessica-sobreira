@@ -2,17 +2,17 @@
 
 <div align="center">
   <a href="https://github.com/jessica-sobreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessica-sobreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-sobreira&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessica-sobreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-sobreira&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
-- Adoro viajar, filmes, batata frita e Coca-Cola :)
-- Estudando Full Stack na 15ª edição do Programa Starter Web Developer da Growdev;
-- Estudando Front-end na Alura;
-- Estudei no Bootcamp Potência Tech iFood da DIO;
-- Trabalho com comunicação desde 2011;
+- 👩‍💻 Estudante de Full Stack na 15ª edição do Programa Starter Web Developer da Growdev.
+- 📚 Estudante de Front-end na Alura.
+- 🚀 Estudei do Bootcamp Potência Tech iFood da DIO.
+- 🎓 Trabalho com Comunicação desde 2011.
 
-  <br>
+### Tecnologias e Ferramentas que trabalho:
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height='40' width='40'/>
@@ -26,14 +26,12 @@
   <img align="center" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" height='40' width='40'/>
   <img align="center" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height='40' width='40'/>
 </div>
-  
-  ## 
-  
-  <div > 
- <a href="https://www.instagram.com/jsscsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:j.jecristina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jessicasobreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://discord.com/channels/@jessicasobreira" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 
-</div>
 
+### Contato:
+
+<div > 
+  <a href="https://www.instagram.com/jsscsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:j.jecristina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jessicasobreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/channels/@jessicasobreira" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
