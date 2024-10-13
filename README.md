@@ -9,8 +9,8 @@
 
 <br>
 
-- 👩‍💻 Estudante de Full Stack na 15ª edição do Programa Starter Web Developer da Growdev.
 - 📚 Estudante de Front-end na Alura.
+- 👩‍💻 Estudei Full Stack na 15ª edição do Programa Starter Web Developer da Growdev.
 - 🚀 Estudei no Bootcamp Potência Tech iFood da DIO.
 - 🎓 Trabalho com Comunicação desde 2011.
 
