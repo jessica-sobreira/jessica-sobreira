@@ -5,11 +5,11 @@ Jornalista em transição para o desenvolvimento de software, unindo a paixão p
 ---
 
 ### Sobre Mim
-- 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** (Conclusão em 2028).
-- 💻 Formada em **Dev Fullstack Jr** pela **+PraTi** e outros bootcamps intensivos (Growdev e DIO).
-- ✍️ Jornalista pós-graduada em **Comunicação Empresarial** e **Marketing Digital**.
-- 🛠️ Experiência sólida em atendimento e suporte técnico em empresas de tecnologia.
-- 🤓 Apaixonada por cultura nerd e aprendizado contínuo.
+- Atualmente cursando **Análise e Desenvolvimento de Sistemas** (Conclusão em 2028).
+- Formada em **Dev Fullstack Jr** pela **+PraTi** e outros bootcamps intensivos (Growdev e DIO).
+- Jornalista pós-graduada em **Comunicação Empresarial** e **Marketing Digital**.
+- Experiência sólida em atendimento e suporte técnico em empresas de tecnologia.
+- Apaixonada por cultura nerd e aprendizado contínuo.
 
 ### Tecnologias e Ferramentas
 <div align="left">
