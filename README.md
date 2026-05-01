@@ -4,14 +4,14 @@ Jornalista em transição para o desenvolvimento de software, unindo a paixão p
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 - 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** (Conclusão em 2028).
 - 💻 Formada em **Dev Fullstack Jr** pela **+PraTi** e outros bootcamps intensivos (Growdev e DIO).
 - ✍️ Jornalista pós-graduada em **Comunicação Empresarial** e **Marketing Digital**.
 - 🛠️ Experiência sólida em atendimento e suporte técnico em empresas de tecnologia.
 - 🤓 Apaixonada por cultura nerd e aprendizado contínuo.
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 <div align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
@@ -24,7 +24,7 @@ Jornalista em transição para o desenvolvimento de software, unindo a paixão p
 
 </div>
 
-### 📂 Projetos em Destaque
+### Projetos em Destaque
 - **[Pokemon]([link-do-seu-repositorio](https://github.com/jessica-sobreira/pokemon))**: Projeto fullstack realizado para a disciplina de React.
 - **[Sistema Solar]([link-do-seu-repositorio](https://github.com/jessica-sobreira/solar-system))**: Atividade com API e React.
 
