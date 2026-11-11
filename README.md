@@ -24,9 +24,5 @@ Jornalista em transição para o desenvolvimento de software, unindo a paixão p
 
 </div>
 
-### Projetos em Destaque
-- **[Pokemon]([link-do-seu-repositorio](https://github.com/jessica-sobreira/pokemon))**: Projeto fullstack realizado para a disciplina de React.
-- **[Sistema Solar]([link-do-seu-repositorio](https://github.com/jessica-sobreira/solar-system))**: Atividade com API e React.
-
 ### Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicasobreira/)
