@@ -1,6 +1,7 @@
 # Olá! Sou a Jéssica Sobreira 👋
 
-Jornalista em transição para o desenvolvimento de software, unindo a paixão por comunicação estratégica com a construção de soluções tecnológicas.
+Jornalista em transição para o desenvolvimento de software. 
+
 
 ---
 
